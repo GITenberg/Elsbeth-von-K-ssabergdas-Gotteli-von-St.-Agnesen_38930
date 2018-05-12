@@ -1,0 +1,30 @@
+_repo: Elsbeth-von-K-ssabergdas-Gotteli-von-St.-Agnesen_38930
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Würtenberger, Karl Friedrich
+    alias: Wurtenberger, Karl Friedrich
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '39721'
+    url: http://www.gutenberg.org/2009/agents/39721
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38930'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- Klettgau Valley (Germany and Switzerland)'
+- !lcsh 'Poetry'
+title: "Elsbeth von Küssaberg, das Gotteli von St. Agnesen\r\nEin episches Gedicht\
+  \ aus dem Kletgau"
+url: http://www.gutenberg.org/ebooks/38930
