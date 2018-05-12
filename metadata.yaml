@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39721'
     url: http://www.gutenberg.org/2009/agents/39721
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38930#Elsbeth-von-K-ssabergdas-Gotteli-von-St.-Agnesen
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-02-19'
 gutenberg_type: Text
